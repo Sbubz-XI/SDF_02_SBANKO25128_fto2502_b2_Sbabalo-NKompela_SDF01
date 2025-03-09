@@ -1,7 +1,12 @@
 .container {
-    text-align: ;
-    display: flex;
-    width: 500%
-
-
+    border: 2px solib black;
+    border-collapse: separate;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 100%;
 }
+
+.thumbnail {
+    width: 100%;
+}
+
