@@ -3,12 +3,20 @@
     padding-right: 20px;
     margin-left: 40px;
     margin-right: 40px;
+    text-align: left;
     
 }
 
 .thumbnail {
-    width: 80px%;
+    width: 80px;
     height: 100px;
     
 }
 
+.msg {
+    height: 40px;
+}
+
+.para {
+    width: 100%;
+}
